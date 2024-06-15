@@ -1,0 +1,332 @@
+.site-wrapper .page-home .how-we-work-section {
+    position: relative;
+    z-index: 1;
+    padding-top: 86px;
+    padding-bottom: 120px;
+    background: #ec1f27
+}
+
+.site-wrapper .page-home .how-we-work-section .container h2.talk-haze {
+    margin-bottom: 82px
+}
+
+.site-wrapper .page-home .how-we-work-section .container .steps-wrapper {
+    position: relative
+}
+
+.site-wrapper .page-home .how-we-work-section .container .steps-wrapper .line-wrapper {
+    position: absolute;
+    top: 27px;
+    left: 7%
+}
+
+span.icon.trophy_icon_cust {
+    margin-top: 23px
+}
+
+@media screen and (max-width:1362px) {
+    .site-wrapper .page-home .how-we-work-section .container .steps-wrapper .line-wrapper {
+        top: 21px;
+        max-width: 100%
+    }
+    .site-wrapper .page-home .how-we-work-section .container .steps-wrapper .step .icon-wrapper span.icon {
+        margin-bottom: -14px
+    }
+    .site-wrapper .page-home .how-we-work-section .container .steps-wrapper .line-wrapper .line-desktop .icon svg,
+    .site-wrapper .page-home .how-we-work-section .container .steps-wrapper .line-wrapper .line-desktop .icon-active svg {
+        width: 100%
+    }
+}
+
+@media screen and (max-width:1299px) {
+    .site-wrapper .page-home .how-we-work-section .container .steps-wrapper .line-wrapper {
+        top: 0
+    }
+    span.icon.trophy_icon_cust {
+        margin-top: -20px
+    }
+}
+
+@media screen and (max-width:1260px) {
+    span.icon.trophy_icon_cust {
+        margin-top: 10px
+    }
+}
+
+.site-wrapper .page-home .how-we-work-section .container .steps-wrapper .line-wrapper .line-desktop .icon,
+.site-wrapper .page-home .how-we-work-section .container .steps-wrapper .line-wrapper .line-desktop .icon-active,
+.site-wrapper .page-home .how-we-work-section .container .steps-wrapper .line-wrapper .line-mobile .icon,
+.site-wrapper .page-home .how-we-work-section .container .steps-wrapper .line-wrapper .line-mobile .icon-active,
+.site-wrapper .page-home .how-we-work-section .container .steps-wrapper .line-wrapper .line-tablet .icon,
+.site-wrapper .page-home .how-we-work-section .container .steps-wrapper .line-wrapper .line-tablet .icon-active {
+    display: block
+}
+
+.site-wrapper .page-home .how-we-work-section .container .steps-wrapper .line-wrapper .line-desktop .icon-active {
+    position: relative;
+    top: -400px
+}
+
+.site-wrapper .page-home .how-we-work-section .container .steps-wrapper .line-wrapper .line-desktop .icon-active svg {
+    display: block;
+    stroke-dasharray: 2653;
+    stroke-dashoffset: 2653
+}
+
+.site-wrapper .page-home .how-we-work-section .container .steps-wrapper .line-wrapper .line-mobile,
+.site-wrapper .page-home .how-we-work-section .container .steps-wrapper .line-wrapper .line-tablet {
+    display: none
+}
+
+.site-wrapper .page-home .how-we-work-section .container .steps-wrapper .line-wrapper .line-mobile .icon-active,
+.site-wrapper .page-home .how-we-work-section .container .steps-wrapper .line-wrapper .line-tablet .icon-active {
+    position: absolute;
+    top: 0
+}
+
+.site-wrapper .page-home .how-we-work-section .container .steps-wrapper .line-wrapper .line-tablet .icon-active svg {
+    display: block;
+    stroke-dasharray: 1054;
+    stroke-dashoffset: 1054
+}
+
+.site-wrapper .page-home .how-we-work-section .container .steps-wrapper .line-wrapper .line-mobile .icon-active svg {
+    display: block;
+    stroke-dasharray: 627;
+    stroke-dashoffset: 627
+}
+
+.site-wrapper .page-home .how-we-work-section .container .steps-wrapper .step {
+    padding: 0;
+    width: 33% !important;
+    float: left
+}
+
+.site-wrapper .page-home .how-we-work-section .container .steps-wrapper .step .icon-wrapper {
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 0
+}
+
+.site-wrapper .page-home .how-we-work-section .container .steps-wrapper .step .icon-wrapper span.icon {
+    margin-left: 70px;
+    display: block;
+    height: 52px;
+    margin-bottom: 15px;
+    position: relative
+}
+
+@media screen and (max-width:992px) {
+    .site-wrapper .page-home .how-we-work-section .container .steps-wrapper .line-wrapper {
+        height: auto;
+        top: 0;
+        left: 300px
+    }
+    .site-wrapper .page-home .how-we-work-section .container .steps-wrapper .line-wrapper .line-desktop {
+        display: none
+    }
+    .site-wrapper .page-home .how-we-work-section .container .steps-wrapper .line-wrapper .line-tablet {
+        display: block
+    }
+    .site-wrapper .page-home .how-we-work-section .container .steps-wrapper .step {
+        float: none;
+        display: block;
+        width: auto
+    }
+    .site-wrapper .page-home .how-we-work-section .container .steps-wrapper .step .icon-wrapper {
+        margin-bottom: 24px
+    }
+    .site-wrapper .page-home .how-we-work-section .container .steps-wrapper .step .icon-wrapper span.icon {
+        display: inline-block;
+        vertical-align: middle;
+        height: auto;
+        width: 125px;
+        margin-right: 138px;
+        margin-bottom: 0
+    }
+    .site-wrapper .page-home .how-we-work-section .container .steps-wrapper .step .icon-wrapper span.icon svg {
+        position: relative;
+        top: 0;
+        -webkit-transform: translateY(0);
+        -moz-transform: translateY(0);
+        -o-transform: translateY(0);
+        transform: translateY(0)
+    }
+}
+
+.site-wrapper .page-home .how-we-work-section .container .steps-wrapper .step .icon-wrapper span.icon svg * {
+    -webkit-transition: 350ms;
+    -moz-transition: 350ms;
+    -o-transition: 350ms;
+    transition: 350ms
+}
+
+.site-wrapper .page-home .how-we-work-section .container .steps-wrapper .step .icon-wrapper span.icon svg.inactive [fill^="#"] {
+    fill: #C2C2C2 !important
+}
+
+.site-wrapper .page-home .how-we-work-section .container .steps-wrapper .step .icon-wrapper .process-content {
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    color: #333;
+    margin: 0 0 0 80px
+}
+
+.process-content span {
+    color: #131212;
+    font-size: 16px;
+    font-weight: 700
+}
+
+.process-content .h-title {
+    color: #fff;
+    font-size: 22px;
+    font-weight: 500;
+    padding-top: 6px;
+}
+
+.process-content p {
+    color: #a7a7a7;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22.16px
+}
+
+.process-content.paddingleft {
+    padding-right: 54px
+}
+
+@media screen and (max-width:1500px) {
+    .process-content.paddingleft {
+        padding-right: 20px
+    }
+}
+
+@media screen and (max-width:992px) {
+    .site-wrapper .page-home .how-we-work-section .container .steps-wrapper .step .icon-wrapper p {
+        display: inline-block;
+        vertical-align: middle
+    }
+}
+
+@media screen and (max-width:768px) {
+    .site-wrapper .page-home .how-we-work-section {
+        padding-top: 36px;
+        padding-bottom: 34px
+    }
+    .site-wrapper .page-home .how-we-work-section .container {
+        padding: 0 24px
+    }
+    .site-wrapper .page-home .how-we-work-section .container h2.talk-haze {
+        margin-bottom: 59px
+    }
+    .site-wrapper .page-home .how-we-work-section .container .steps-wrapper,
+    .site-wrapper .page-home .how-we-work-section .container .steps-wrapper .step {
+        margin: 0
+    }
+    .site-wrapper .page-home .how-we-work-section .container .steps-wrapper .line-wrapper .line-mobile,
+    .site-wrapper .page-home .how-we-work-section .container .steps-wrapper .line-wrapper .line-tablet {
+        display: block
+    }
+    .site-wrapper .page-home .how-we-work-section .container .steps-wrapper .flex-row-reverse .step:nth-last-child(2) .icon-wrapper p {
+        margin-top: 0 !important
+    }
+    .site-wrapper .page-home .how-we-work-section .container .steps-wrapper .step .icon-wrapper span.icon {
+        width: 45px;
+        margin: 0 auto;
+        height: auto;
+        display: block
+    }
+    .site-wrapper .page-home .how-we-work-section .container .steps-wrapper .step .icon-wrapper span.icon svg {
+        width: 100%
+    }
+    .site-wrapper .page-home .how-we-work-section .container .steps-wrapper .step .icon-wrapper p {
+        font-size: 16px;
+        line-height: 20px;
+        display: block
+    }
+}
+
+.site-wrapper .page-home .how-we-work-section .container .steps-wrapper .flex-row-reverse {
+    margin-top: 92px;
+    display: flex;
+    flex-direction: row-reverse
+}
+
+@media screen and (max-width:1362px) {
+    .site-wrapper .page-home .how-we-work-section .container .steps-wrapper .flex-row-reverse {
+        margin-top: 88px
+    }
+}
+
+@media screen and (max-width:1262px) {
+    .site-wrapper .page-home .how-we-work-section .container .steps-wrapper .flex-row-reverse {
+        margin-top: 78px
+    }
+    .process-content h4 {
+        font-size: 18px
+    }
+}
+
+@media screen and (max-width:1199px) {
+    .site-wrapper .page-home .how-we-work-section .container .steps-wrapper .flex-row-reverse {
+        margin-top: 0
+    }
+    .site-wrapper .page-home .how-we-work-section .container .steps-wrapper .step .icon-wrapper {
+        margin-top: 26px
+    }
+    .site-wrapper .page-home .how-we-work-section .container .steps-wrapper .step .icon-wrapper span.icon {
+        margin-left: 47px
+    }
+    .site-wrapper .page-home .how-we-work-section .container .steps-wrapper .step .icon-wrapper .process-content {
+        margin-left: 57px
+    }
+}
+
+@media screen and (max-width:992px) {
+    .site-wrapper .page-home .how-we-work-section .container .steps-wrapper .flex-row-reverse {
+        display: block
+    }
+    .site-wrapper .page-home .how-we-work-section .container .steps-wrapper .step .icon-wrapper {
+        margin-top: 0
+    }
+    .how-we-work-section .section-title {
+        margin: 15px
+    }
+}
+
+@media screen and (max-width:767px) {
+    .site-wrapper .page-home .how-we-work-section .container .steps-wrapper .step .icon-wrapper .process-content,
+    .site-wrapper .page-home .how-we-work-section .container .steps-wrapper .step .icon-wrapper span.icon {
+        margin-left: 0
+    }
+    .site-wrapper .page-home .how-we-work-section .container .steps-wrapper .step {
+        width: auto !important
+    }
+    .process-content {
+        padding: 0 0 10px
+    }
+    .site-wrapper .page-home .how-we-work-section .container .steps-wrapper .step .icon-wrapper {
+        margin-bottom: 5px
+    }
+    .site-wrapper .page-home .how-we-work-section .container .steps-wrapper .line-wrapper {
+        top: 55px;
+        left: 280px
+    }
+}
+
+@media screen and (min-width:1200px) {
+    .prc-1 {
+        display: none
+    }
+    .prcc-2 {
+        display: block
+    }
+}
+
+@media screen and (max-width:1199px) {
+    .prc-1 {
+        display: block
+    }
+}

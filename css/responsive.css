@@ -1,0 +1,1322 @@
+@media only screen and (max-width:767px) {
+    .pb-100,
+    .ptb-100 {
+        padding-bottom: 50px
+    }
+    .banner-area.banner-area-style-two .banner-content,
+    .checkout-area .faq-accordion .default-btn,
+    .choose-us .section-title,
+    .why-choose-us-content.mb-removed {
+        margin-bottom: 0
+    }
+    .call-to-action-part p {
+        font-size: 18px;
+    }
+    .call-to-action-part h2 {
+        font-size: 32px;
+        line-height: 42px;
+     
+    }
+    .call-to-action-part {
+        padding: 41px 30px;
+        border: 1px solid rgba(0, 0, 0, 0.05);
+        border-radius: 20px;
+        box-shadow: rgba(255, 255, 255, 0.025) 0px 0.362176px 0.651917px -1px inset, rgba(255, 255, 255, 0.036) 0px 3px 5.4px -2px inset;
+        background-color: #ec1f27;
+    }
+    .cta-1st-img {
+        width: 75% !important;
+        margin: 0 auto
+    }
+    .banner-content h1,
+    .benifits-content {
+        margin-bottom: 20px
+    }
+    .about-content,
+    .case-sidebar,
+    .ml-15,
+    .widget-sidebar .sidebar-widget {
+        margin-left: 0
+    }
+    .mt-xs-4 {
+        margin-top: 1.5rem
+    }
+    .order-xs-2 {
+        order: 2
+    }
+    .page-title-area {
+        padding-top: 65px
+    }
+    .pt-100,
+    .ptb-100 {
+        padding-top: 50px
+    }
+    .rating-box.mt-5 {
+        margin-top: 15px !important
+    }
+    .pb-70 {
+        padding-bottom: 20px
+    }
+    navbar-area.is-sticky {
+        top: 11px;
+        margin: auto;
+        left: 3px;
+        width: 97%;
+      
+    }
+    .top-header .header-right-content,
+    .user-area .user-form-content .user-form .login-action .forgot-login {
+        float: unset;
+        margin-top: 10px
+    }
+    .top-header .header-right-content .my-account a {
+        width: 20px;
+        height: 20px;
+        line-height: 19px
+    }
+    .top-header .header-right-content .my-account a i {
+        font-size: 12px
+    }
+    .banner-area {
+        height: 100%;
+        padding-top: 127px;
+        padding-bottom: 15px
+    }
+    .banner-content h1 {
+        font-size: 40px
+    }
+    .banner-content p,
+    .why-choose-us-content ul li {
+        margin-bottom: 15px
+    }
+    .banner-content p {
+        font-size: 17px
+    }
+    .default-btn {
+        font-size: 15px;
+        padding: 12px 26px
+    }
+    .hero-slider-content .slider-btn .play-video span,
+    .shape,
+    .single-counter .counter-shape {
+        display: none
+    }
+    .section-title,
+    .section-titles {
+        margin-bottom: 35px;
+        text-align: left
+    }
+    .cart-area .cart-table table tbody tr td a,
+    .coming-soon-area .coming-soon-content #timer div span,
+    .section-title span,
+    .section-titles span {
+        font-size: 14px
+    }
+    .about-content h2,
+    .read-more-txt h2,
+    .section-title h2,
+    .section-titles h2 {
+        font-size: 30px
+    }
+    .blog-details-content.content-4 blockquote,
+    .checkout-area .cart-totals,
+    .checkout-area .faq-accordion,
+    .single-approach-box,
+    .single-blog.active,
+    .single-marketing-box,
+    .single-pricing,
+    .single-services,
+    .single-services.box,
+    .user-area .user-form-content .user-form {
+        padding: 20px
+    }
+    .checkout-area .billing-details h3,
+    .error-area .error-content h3,
+    .single-marketing-box h3,
+    .single-services h3,
+    .single-team-member .team-content h3,
+    .why-choose-us-content ul li h3 {
+        font-size: 22px
+    }
+    .website-content h2,
+    .why-choose-us-content h2 {
+        font-size: 35px
+    }
+    .website-content .website-from label {
+        text-align: left
+    }
+    .experience-content h2 {
+        font-size: 34px
+    }
+    .coming-soon-area .coming-soon-content #timer,
+    .single-case .case-content {
+        margin-top: 10px
+    }
+    .shop-details-area .shop-details-tab .tab_content .tabs_item .shop-details-tab-content h3,
+    .single-case .case-content h3 {
+        font-size: 20px
+    }
+    .case-studies-area .owl-theme .owl-nav .owl-next,
+    .case-studies-area .owl-theme .owl-nav .owl-prev {
+        left: 15px;
+        -webkit-transform: translateY(-58px);
+        transform: translateY(-58px)
+    }
+    .case-studies-area .owl-theme .owl-nav .owl-next i,
+    .case-studies-area .owl-theme .owl-nav .owl-prev i,
+    .testimonials-slider-bg .owl-theme .owl-nav .owl-next i,
+    .testimonials-slider-bg .owl-theme .owl-nav .owl-prev i {
+        width: 45px;
+        height: 45px;
+        line-height: 46px
+    }
+    .case-studies-area .owl-theme .owl-nav .owl-next i::after,
+    .case-studies-area .owl-theme .owl-nav .owl-prev i::after,
+    .testimonials-slider-bg .owl-theme .owl-nav .owl-next i::after,
+    .testimonials-slider-bg .owl-theme .owl-nav .owl-prev i::after {
+        width: 37px;
+        height: 37px
+    }
+    .case-studies-area .owl-theme .owl-nav .owl-next {
+        right: 15px;
+        left: auto
+    }
+    .testimonials-slider-bg {
+        padding-bottom: 30px
+    }
+    .testimonials-slider-bg .owl-theme .owl-nav {
+        opacity: 1
+    }
+    .testimonials-slider-bg .owl-theme .owl-nav .owl-next,
+    .testimonials-slider-bg .owl-theme .owl-nav .owl-prev {
+        left: 15px;
+        position: unset;
+        top: 0;
+        -webkit-transform: none;
+        transform: none;
+        margin: 0 20px !important
+    }
+    .testimonials-slider-bg .owl-theme .owl-nav .owl-next {
+        right: 0;
+        left: auto
+    }
+    .single-testimonials {
+        margin: 0;
+        border: 1px solid #f9f9f9;
+        padding: 20px;
+        z-index: 1
+    }
+    .about-content h3,
+    .faq-accordion .accordion .accordion-title,
+    .single-testimonials p,
+    .widget-sidebar .sidebar-widget.recent-post ul li a {
+        font-size: 18px
+    }
+    .single-testimonials i {
+        z-index: -1
+    }
+    .pricing-area .tab .tabs .monthly {
+        left: -107px
+    }
+    .page-title-area .page-title-content h2,
+    .single-counter .count-title h2 .target,
+    .single-pricing .pricing-title h2 {
+        font-size: 40px
+    }
+    .single-blog h3 {
+        font-size: 21px
+    }
+    .single-footer-widget h3 {
+        font-size: 23px;
+        margin-bottom: 20px
+    }
+    .copy-right-area ul {
+        text-align: center;
+        margin-top: 5px
+    }
+    .banner-area.banner-area-style-two {
+        position: relative;
+        z-index: 1;
+        overflow: hidden
+    }
+    .banner-area.banner-area-style-two::before {
+        content: "";
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: #000;
+        opacity: .7;
+        z-index: -1
+    }
+    .banner-area.banner-area-style-two .banner-content h1,
+    .banner-area.banner-area-style-two .banner-content p {
+        color: #fff
+    }
+    .banner-area.banner-area-style-two .all-category {
+        text-align: center;
+        margin-top: 30px
+    }
+    .banner-area.banner-area-style-two .single-category {
+        position: unset;
+        display: inline-block;
+        text-align: center;
+        margin: 0 20px
+    }
+    .about-content ul li h4,
+    .error-area .error-content p,
+    .widget-sidebar .sidebar-widget.categories ul li {
+        font-size: 16px
+    }
+    .about-content ul li i {
+        top: 0
+    }
+    .single-counter .count-title h4 {
+        font-size: 16px;
+        font-weight: 700
+    }
+    .single-counter .count-title h2 {
+        font-size: 40px;
+        margin-bottom: 8px
+    }
+    .mr-15,
+    .website-content.website-content-mr {
+        margin-right: 0
+    }
+    .about-us-area,
+    .cart-area {
+        overflow: hidden
+    }
+    .hero-slider-content {
+        text-align: center;
+        margin-top: 200px
+    }
+    .hero-slider-content h1 {
+        font-size: 35px;
+        margin-bottom: 25px
+    }
+    .hero-slider-content p {
+        font-size: 16px;
+        margin-bottom: 0
+    }
+    .hero-slider-item {
+        height: 100%
+    }
+    .slider-img {
+        margin-top: 30px;
+        margin-bottom: 70px
+    }
+    .case-details-2,
+    .case-sidebar,
+    .services-details-2 {
+        margin-top: 25px
+    }
+    .hero-slider-area .thumbs-wrap .owl-thumbs {
+        right: 0;
+        position: relative;
+        top: -50px
+    }
+    .header-area.header-area-style-three .top-header {
+        border-bottom: none
+    }
+    .blog-page-area .single-blog h3,
+    .case-content h3,
+    .case-sidebar h3,
+    .services-content h3,
+    .widget-sidebar .sidebar-widget h3 {
+        font-size: 25px
+    }
+    .blog-details-content.content-9 .comments ul li img,
+    .case-sidebar ul li span,
+    .coming-soon-area .coming-soon-content .newsletter-form .default-btn {
+        position: unset
+    }
+    .user-area .user-form-content.log-in-50 {
+        margin-bottom: 50px
+    }
+    .user-area .user-form-content h3 {
+        font-size: 20px;
+        padding: 15px 20px
+    }
+    .coming-soon-area {
+        height: 100%;
+        padding: 120px 15px
+    }
+    .coming-soon-area .coming-soon-content {
+        padding: 30px 20px
+    }
+    .coming-soon-area .coming-soon-content h2 {
+        margin-top: 0;
+        font-size: 25px
+    }
+    .coming-soon-area .coming-soon-content #timer div {
+        width: 95px;
+        height: 100px;
+        font-size: 35px;
+        margin-top: 20px
+    }
+    .coming-soon-area .coming-soon-content form {
+        max-width: 100%;
+        margin-top: 40px
+    }
+    .error-area .error-content h1 {
+        font-size: 140px;
+        margin-top: -27px
+    }
+    .pagination-area {
+        margin: auto;
+        text-align: center
+    }
+    .pagination-area .page-numbers {
+        width: 35px;
+        height: 35px;
+        line-height: 37px
+    }
+    .showing-result .showing-top-bar-ordering {
+        text-align: center;
+        margin-top: 10px
+    }
+    .cart-area .cart-table table thead tr th {
+        font-size: 16px;
+        white-space: nowrap
+    }
+    .cart-area .cart-table table tbody tr td {
+        white-space: nowrap;
+        padding: 15px
+    }
+    .cart-area .coupon-cart .form-group .default-btn {
+        position: unset;
+        top: 0;
+        right: 0;
+        height: 50px;
+        margin-top: 25px
+    }
+    .cart-area .coupon-cart .default-btn.update-cart {
+        line-height: 28px;
+        margin-top: 20px
+    }
+    .cart-area .cart-totals {
+        padding: 20px;
+        margin-right: auto
+    }
+    .cart-area .default-btn {
+        display: block
+    }
+    .cart-area .default-btn.update-cart {
+        width: 100%
+    }
+    .checkout-area .billing-details {
+        margin-bottom: 30px;
+        padding: 20px
+    }
+    .shop-details-area .shop-details-image {
+        margin-bottom: 30px
+    }
+    .shop-details-area .shop-details-desc h3 {
+        font-size: 22px;
+        margin-bottom: 18px
+    }
+    .pr-15,
+    .shop-details-area .shop-details-tab .tab_content .tabs_item .shop-details-tab-content .shop-review-form .review-comments .review-item {
+        padding-right: 0
+    }
+    .shop-details-area .shop-details-tab {
+        padding: 20px;
+        margin-top: 30px
+    }
+    .shop-details-area .shop-details-tab .tab_content {
+        padding-top: 15px
+    }
+    .shop-details-area .shop-details-tab .tab_content .tabs_item .shop-details-tab-content .additional-information li span {
+        width: auto
+    }
+    .shop-details-area .shop-details-tab .tabs li {
+        margin-bottom: 18px;
+        font-size: 18px
+    }
+    .widget-sidebar {
+        margin-top: 30px;
+        padding-bottom: 20px
+    }
+    .widget-sidebar .sidebar-widget.categories ul li::before {
+        top: 8px
+    }
+    .blog-details-content.content-3 h3 {
+        font-size: 25px;
+        margin-bottom: 15px
+    }
+    .blog-details-content.content-6 ul li {
+        margin-bottom: 10px
+    }
+    .blog-details-content.content-9 .comments ul li,
+    .pl-15,
+    .shop-details-area .shop-details-desc,
+    .widget-sidebar {
+        padding-left: 0
+    }
+    .blog-details-content.content-9 .comments ul li span {
+        margin-bottom: 5px
+    }
+    .blog-details-content.content-9 .comments h3 {
+        margin-bottom: 25px
+    }
+    .main-contact-area .contact-form h2 {
+        font-size: 30px;
+        text-align: center
+    }
+    .main-contact-area .contact-info {
+        margin-left: 0;
+        margin-top: 30px
+    }
+    .main-contact-area .contact-info h2 {
+        font-size: 30px;
+        margin-bottom: 25px
+    }
+    .others-options-for-mobile-devices ul li {
+        display: inline-block;
+        margin-right: 12px;
+        padding-right: 15px
+    }
+    .case-studies-area .container-fluid {
+        padding-left: 12px !important;
+        padding-right: 12px !important
+    }
+}
+
+@media only screen and (min-width:576px) and (max-width:767px) {
+    .case-studies-area .container-fluid {
+        max-width: 540px
+    }
+}
+
+@media only screen and (min-width:768px) and (max-width:991px) {
+    .pt-100,
+    .ptb-100 {
+        padding-top: 50px
+    }
+    .pb-100,
+    .ptb-100 {
+        padding-bottom: 50px
+    }
+    .banner-content,
+    .copy-right-area,
+    .hero-slider-area .thumbs-wrap,
+    .main-contact-area #msgSubmit,
+    .main-contact-area .col-lg-12,
+    .website-content {
+        text-align: center
+    }
+    .about-content,
+    .case-sidebar,
+    .ml-15,
+    .widget-sidebar .sidebar-widget {
+        margin-left: 0
+    }
+    .online-business .services-img1 lottie-player {
+        width: 100%;
+        margin: 0 auto
+    }
+    .single-services lottie-player {
+        width: 48%
+    }
+    .faq-accordion .accordion .accordion-title {
+        padding: 10px 60px 10px 0;
+        font-size: 20px
+    }
+    .faq-accordion .accordion .accordion-title i {
+        top: 4px
+    }
+    .faq-accordion .accordion .accordion-item,
+    .why-choose-us-content.mb-removed {
+        margin-bottom: 0
+    }
+    .banner-area,
+    .pb-70 {
+        padding-bottom: 20px
+    }
+    .top-header .header-right-content .my-account a {
+        width: 20px;
+        height: 20px;
+        line-height: 19px
+    }
+    .top-header .header-right-content .my-account a i {
+        font-size: 12px
+    }
+    .banner-area {
+        height: 100%;
+        padding-top: 124px
+    }
+    .banner-content {
+        margin-bottom: 30px
+    }
+    .banner-content h1 {
+        font-size: 40px;
+        margin-bottom: 20px
+    }
+    .banner-content p {
+        font-size: 17px;
+        margin-bottom: 24px
+    }
+    .default-btn {
+        font-size: 15px;
+        padding: 15px 30px
+    }
+    .hero-slider-content .slider-btn .play-video span,
+    .shape,
+    .single-counter .counter-shape {
+        display: none
+    }
+    .section-title,
+    .section-titles {
+        margin-bottom: 40px
+    }
+    .read-more-txt h2,
+    .section-title h2,
+    .section-titles h2,
+    .website-content h2,
+    .why-choose-us-content h2 {
+        font-size: 35px
+    }
+    .blog-details-content.content-4 blockquote,
+    .single-approach-box,
+    .single-marketing-box,
+    .single-pricing,
+    .single-services.box,
+    .user-area .user-form-content .user-form {
+        padding: 20px
+    }
+    .error-area .error-content h3,
+    .single-marketing-box h3,
+    .single-team-member .team-content h3,
+    .why-choose-us-content ul li h3 {
+        font-size: 22px
+    }
+    .website-content .website-from label {
+        text-align: left
+    }
+    .experience-content h2 {
+        font-size: 34px
+    }
+    .single-case .case-content {
+        margin-top: 10px
+    }
+    .single-case .case-content h3,
+    .single-counter .count-title h4 {
+        font-size: 20px
+    }
+    .case-studies-area .owl-theme .owl-nav .owl-next,
+    .case-studies-area .owl-theme .owl-nav .owl-prev {
+        left: 15px;
+        -webkit-transform: translateY(-58px);
+        transform: translateY(-58px)
+    }
+    .case-studies-area .owl-theme .owl-nav .owl-next i,
+    .case-studies-area .owl-theme .owl-nav .owl-prev i,
+    .testimonials-slider-bg .owl-theme .owl-nav .owl-next i,
+    .testimonials-slider-bg .owl-theme .owl-nav .owl-prev i {
+        width: 45px;
+        height: 45px;
+        line-height: 46px
+    }
+    .case-studies-area .owl-theme .owl-nav .owl-next i::after,
+    .case-studies-area .owl-theme .owl-nav .owl-prev i::after,
+    .testimonials-slider-bg .owl-theme .owl-nav .owl-next i::after,
+    .testimonials-slider-bg .owl-theme .owl-nav .owl-prev i::after {
+        width: 37px;
+        height: 37px
+    }
+    .case-studies-area .owl-theme .owl-nav .owl-next {
+        right: 15px;
+        left: auto
+    }
+    .testimonials-slider-bg {
+        padding-bottom: 30px
+    }
+    .testimonials-slider-bg .owl-theme .owl-nav {
+        opacity: 1
+    }
+    .testimonials-slider-bg .owl-theme .owl-nav .owl-next,
+    .testimonials-slider-bg .owl-theme .owl-nav .owl-prev {
+        left: 15px;
+        position: unset;
+        top: 0;
+        -webkit-transform: none;
+        transform: none;
+        margin: 0 20px !important
+    }
+    .testimonials-slider-bg .owl-theme .owl-nav .owl-next {
+        right: 0;
+        left: auto
+    }
+    .single-testimonials {
+        margin: 0;
+        border: 1px solid #f9f9f9;
+        padding: 20px;
+        z-index: 1
+    }
+    .about-content h3,
+    .single-testimonials p,
+    .widget-sidebar .sidebar-widget.recent-post ul li a {
+        font-size: 18px
+    }
+    .single-testimonials i {
+        z-index: -1
+    }
+    .pricing-area .tab .tabs .monthly {
+        left: -107px
+    }
+    .page-title-area .page-title-content h2,
+    .single-counter .count-title h2 .target,
+    .single-pricing .pricing-title h2 {
+        font-size: 40px
+    }
+    .single-blog h3 {
+        font-size: 21px
+    }
+    .single-footer-widget h3 {
+        font-size: 23px;
+        margin-bottom: 20px
+    }
+    .copy-right-area ul {
+        text-align: center;
+        margin-top: 5px
+    }
+    .banner-area.banner-area-style-two {
+        position: relative;
+        z-index: 1;
+        overflow: hidden
+    }
+    .banner-area.banner-area-style-two::before {
+        content: "";
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: #000;
+        opacity: .5;
+        z-index: -1
+    }
+    .banner-area.banner-area-style-two .banner-content {
+        margin: auto
+    }
+    .banner-area.banner-area-style-two .banner-content h1,
+    .banner-area.banner-area-style-two .banner-content p {
+        color: #fff
+    }
+    .banner-area.banner-area-style-two .all-category {
+        text-align: center;
+        margin-top: 30px
+    }
+    .banner-area.banner-area-style-two .single-category {
+        position: unset;
+        display: inline-block;
+        text-align: center;
+        margin: 0 20px
+    }
+    .about-content h2,
+    .blog-page-area .single-blog h3 {
+        font-size: 30px
+    }
+    .about-content ul li h4,
+    .error-area .error-content p,
+    .widget-sidebar .sidebar-widget.categories ul li {
+        font-size: 16px
+    }
+    .about-content ul li i {
+        top: 0
+    }
+    .single-counter .count-title h2 {
+        font-size: 40px;
+        margin-bottom: 8px
+    }
+    .why-choose-us-content ul li {
+        margin-bottom: 15px
+    }
+    .mr-15,
+    .website-content.website-content-mr {
+        margin-right: 0
+    }
+    .about-us-area {
+        overflow: hidden
+    }
+    .hero-slider-content {
+        text-align: center;
+        margin-top: 200px
+    }
+    .hero-slider-content h1 {
+        font-size: 35px;
+        margin-bottom: 25px
+    }
+    .hero-slider-content p {
+        font-size: 16px;
+        margin-bottom: 0
+    }
+    .hero-slider-item {
+        height: 100%
+    }
+    .slider-img {
+        margin-top: 30px;
+        margin-bottom: 100px
+    }
+    .case-details-2,
+    .case-sidebar,
+    .services-details-2 {
+        margin-top: 25px
+    }
+    .hero-slider-area .thumbs-wrap .owl-thumbs {
+        right: 0;
+        position: relative;
+        top: -70px
+    }
+    .header-area.header-area-style-three .top-header {
+        border-bottom: none
+    }
+    .blog-details-content.content-9 .comments ul li img,
+    .case-sidebar ul li span {
+        position: unset
+    }
+    .case-sidebar h3,
+    .services-content h3,
+    .widget-sidebar .sidebar-widget h3 {
+        font-size: 25px
+    }
+    .error-area .error-content h1 {
+        font-size: 140px;
+        margin-top: -27px
+    }
+    .user-area .user-form-content.log-in-50 {
+        margin-bottom: 50px
+    }
+    .user-area .user-form-content h3 {
+        font-size: 20px;
+        padding: 15px 20px
+    }
+    .user-area .user-form-content .user-form .login-action .forgot-login {
+        float: unset;
+        margin-top: 10px
+    }
+    .pagination-area {
+        margin: auto;
+        text-align: center
+    }
+    .pagination-area .page-numbers {
+        width: 35px;
+        height: 35px;
+        line-height: 37px
+    }
+    .cart-area .coupon-cart .default-btn.update-cart {
+        line-height: 28px
+    }
+    .cart-area .coupon-cart .form-group {
+        position: relative;
+        margin-bottom: 0 !important
+    }
+    .checkout-area .billing-details {
+        margin-bottom: 30px;
+        padding: 20px
+    }
+    .shop-details-image {
+        margin-bottom: 30px
+    }
+    .shop-details-area .shop-details-tab .tab_content {
+        padding-top: 15px
+    }
+    .widget-sidebar {
+        margin-top: 30px;
+        padding-bottom: 30px
+    }
+    .widget-sidebar .sidebar-widget.categories ul li::before {
+        top: 8px
+    }
+    .blog-details-content.content-3 h3 {
+        font-size: 25px;
+        margin-bottom: 15px
+    }
+    .blog-details-content.content-6 ul li {
+        margin-bottom: 10px
+    }
+    .blog-details-content.content-9 .comments ul li,
+    .pl-15,
+    .shop-details-area .shop-details-desc,
+    .widget-sidebar {
+        padding-left: 0
+    }
+    .blog-details-content.content-9 .comments ul li span {
+        margin-bottom: 5px
+    }
+    .blog-details-content.content-9 .comments h3 {
+        margin-bottom: 25px
+    }
+    .main-contact-area .contact-form h2 {
+        font-size: 30px;
+        text-align: center
+    }
+    .main-contact-area .contact-info {
+        margin-left: 0;
+        margin-top: 30px
+    }
+    .main-contact-area .contact-info h2 {
+        font-size: 30px;
+        margin-bottom: 25px
+    }
+    .case-studies-area .container-fluid {
+        max-width: 720px;
+        padding-left: 15px !important;
+        padding-right: 15px !important
+    }
+    .pr-15 {
+        padding-right: 0
+    }
+}
+
+@media screen and (max-width:1440px) {
+    .banner-content h1 {
+        font-size: 40px
+    }
+    .banner-content h3 {
+        font-size: 30px
+    }
+}
+
+@media only screen and (min-width:992px) and (max-width:1199px) {
+    .desktop-nav .navbar .navbar-nav .nav-item a {
+        margin-left: 15px;
+        margin-right: 15px
+    }
+    .banner-content h1 {
+        font-size: 36px
+    }
+    .banner-content h3 {
+        font-size: 26px
+    }
+    .single-testimonials {
+        padding: 25px
+    }
+    .single-pricing {
+        padding: 20px
+    }
+    .about-content,
+    .case-sidebar,
+    .main-contact-area .contact-info,
+    .ml-15,
+    .sidebar-widget {
+        margin-left: 0
+    }
+    .single-counter .counter-shape {
+        display: none
+    }
+    .case-studies-area .owl-theme .owl-nav .owl-next,
+    .case-studies-area .owl-theme .owl-nav .owl-prev {
+        -webkit-transform: translateY(-51px);
+        transform: translateY(-51px)
+    }
+    .mr-15,
+    .website-content.website-content-mr {
+        margin-right: 0
+    }
+    .testimonials-slider-bg .owl-theme .owl-nav .owl-prev {
+        left: 0
+    }
+    .testimonials-slider-bg .owl-theme .owl-nav .owl-next {
+        left: auto;
+        right: 0
+    }
+    .hero-slider-content h1 {
+        font-size: 55px
+    }
+    .hero-slider-area .thumbs-wrap {
+        max-width: 960px
+    }
+    .single-counter .count-title h4 {
+        font-size: 16px
+    }
+    .faq-area,
+    .testimonials-area {
+        overflow: hidden
+    }
+    .case-sidebar ul li span {
+        position: unset
+    }
+    .case-sidebar h3 {
+        font-size: 25px
+    }
+    .banner-area.banner-area-style-two::before {
+        content: "";
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: #000;
+        opacity: .7;
+        z-index: -1
+    }
+    .banner-area.banner-area-style-two .banner-content h1,
+    .banner-area.banner-area-style-two .banner-content p {
+        color: #fff
+    }
+    .single-services-box-wrap .bottom-content {
+        padding: 42px 30px
+    }
+    .pl-15 {
+        padding-left: 0
+    }
+    .pr-15 {
+        padding-right: 0
+    }
+}
+
+@media only screen and (min-width:1700px) {
+    .banner-img,
+    .slider-img {
+        margin-right: -100px
+    }
+    .banner-area.banner-area-style-two {
+        height: 800px
+    }
+    .banner-area.banner-area-style-two .single-category.seo {
+        right: 44%;
+        top: 70px
+    }
+    .banner-area.banner-area-style-two .single-category.analytics {
+        top: 25%;
+        right: 30px
+    }
+    .banner-area.banner-area-style-two .single-category.growth {
+        right: 570px
+    }
+    .case-studies-area .owl-theme .owl-nav .owl-next,
+    .case-studies-area .owl-theme .owl-nav .owl-prev {
+        top: 50%;
+        left: 455px
+    }
+    .case-studies-area .owl-theme .owl-nav .owl-next {
+        left: auto;
+        right: 455px
+    }
+    .hero-slider-item {
+        height: 100vh
+    }
+    .hero-slider-content h1 {
+        font-size: 80px
+    }
+    .hero-slider-area .thumbs-wrap {
+        max-width: 1400px
+    }
+    .hero-slider-area .thumbs-wrap .owl-thumbs {
+        bottom: 100px
+    }
+}
+
+@media only screen and (max-width:991px) {
+    .navbar-area,
+    .navbar-area.is-sticky {
+        padding-top: 15px;
+        padding-bottom: 15px
+    }
+    .navbar-area {
+        background-color: #fff;
+        -webkit-box-shadow: 0 0 20px 3px rgba(0, 0, 0, .05);
+        box-shadow: 0 0 20px 3px rgba(0, 0, 0, .05);
+        z-index: 2
+    }
+    .navbar-area.is-sticky {
+        background-color: #fff !important
+    }
+    .mobile-responsive-nav {
+        display: block
+    }
+    .mobile-responsive-nav .mobile-responsive-menu {
+        position: relative
+    }
+    .mobile-responsive-nav .mobile-responsive-menu.mean-container .mean-nav {
+        margin-top: 50px;
+        background-color: #fff
+    }
+    .mobile-responsive-nav .mobile-responsive-menu.mean-container .mean-nav ul {
+        font-size: 15px;
+        border: none !important
+    }
+    .mobile-responsive-nav .mobile-responsive-menu.mean-container .mean-nav ul li a {
+        color: #000;
+        border-top-color: #dbeefd;
+        text-transform: capitalize
+    }
+    .desktop-nav,
+    .mobile-responsive-nav .mobile-responsive-menu.mean-container .mean-nav ul li a i {
+        display: none
+    }
+    .mobile-responsive-nav .mobile-responsive-menu.mean-container .mean-nav ul li a.mean-expand {
+        width: 100%;
+        height: 28px;
+        text-align: right;
+        padding: 11px !important;
+        background: 0 0 !important;
+        border-left: none !important;
+        border-bottom: none !important
+    }
+    .mobile-responsive-nav .mobile-responsive-menu.mean-container .mean-nav ul li a.active {
+        color: #5ea813
+    }
+    .mobile-responsive-nav .mobile-responsive-menu.mean-container .mean-nav ul li li a {
+        font-size: 15px
+    }
+    .mobile-responsive-nav .mobile-responsive-menu.mean-container .navbar-nav {
+        -webkit-box-shadow: 0 7px 13px 0 rgba(0, 0, 0, .1);
+        box-shadow: 0 7px 13px 0 rgba(0, 0, 0, .1);
+        margin-top: 22px !important;
+        max-height: 50vh;
+        overflow-y: scroll
+    }
+    .mobile-responsive-nav .mobile-responsive-menu.mean-container .navbar-nav::-webkit-scrollbar {
+        width: 7px
+    }
+    .mobile-responsive-nav .mobile-responsive-menu.mean-container .navbar-nav::-webkit-scrollbar-track {
+        background: #f1f1f1
+    }
+    .mobile-responsive-nav .mobile-responsive-menu.mean-container .navbar-nav::-webkit-scrollbar-thumb {
+        background: #888
+    }
+    .mobile-responsive-nav .mobile-responsive-menu.mean-container .navbar-nav::-webkit-scrollbar-thumb:hover {
+        background: #555
+    }
+    .mobile-responsive-nav .mean-container a.meanmenu-reveal {
+        top: 0;
+        padding: 5px 0 0;
+        width: 35px;
+        height: 30px;
+        color: #ec1f27
+    }
+    .mobile-responsive-nav .mean-container a.meanmenu-reveal span {
+        background: #ec1f27;
+        height: 4px;
+        margin-top: -6px;
+        border-radius: 3px;
+        position: relative;
+        top: 8px
+    }
+    .mobile-responsive-nav .mean-container .mean-bar {
+        background: 0 0;
+        position: absolute;
+        z-index: 999;
+        padding: 0
+    }
+    .mobile-responsive-nav .logo {
+        position: relative;
+        width: 130px;
+        z-index: 999
+    }
+    .others-options-for-mobile-devices {
+        display: block;
+        position: absolute;
+        top: 16px;
+        right: 58px;
+        z-index: 9999
+    }
+    .others-options-for-mobile-devices a span {
+        color: #ffca3a
+    }
+    .others-options-for-mobile-devices ul li .option-item .search-overlay.search-popup {
+        right: -62px
+    }
+}
+
+@media only screen and (min-width:1300px) {
+    .container {
+        max-width: 1300px
+    }
+    .cta-1st-sec-titles h2 {
+        font-size: 35px
+    }
+}
+
+@media only screen and (min-width:1400px) {
+    .container {
+        max-width: 1320px
+    }
+}
+
+@media only screen and (min-width:1500px) {
+    .container {
+        max-width: 1400px
+    }
+}
+
+@media only screen and (max-width:1435px) {
+    .testimonials-slider-bg .owl-theme .owl-nav .owl-next {
+        right: -25px
+    }
+    .testimonials-slider-bg .owl-theme .owl-nav .owl-prev {
+        left: -25px
+    }
+}
+
+@media only screen and (max-width:1200px) {
+    .cta-1st-sec-titles h2 {
+        font-size: 35px
+    }
+    .counter-img {
+        margin-top: 10px;
+        text-align: center;
+        padding-bottom: 30px
+    }
+    .single-counter {
+        margin-top: 30px
+    }
+}
+
+@media screen and (max-width:991px) {
+    .cta-1st-img {
+        width: 100%;
+        margin-top: 30px
+    }
+    .page-title-area {
+        padding-top: 65px
+    }
+    .industries-serve .industries-float-txt h2 {
+        font-size: 30px
+    }
+    .main-contact-area .contact-info .address.adr1 {
+        border-right: none;
+        border-left: none
+    }
+    .copy-right-area .social-icon {
+        margin-top: 23px
+    }
+    .home-banner {
+        height: 248px
+    }
+    .cta-1st-img-1,
+    .home-cta .cta-1st-img-1 {
+        left: 0;
+        width: 100%
+    }
+}
+
+@media screen and (max-width:768px) {
+    .home-cta .cta-1st-img-1 {
+        left: 15%;
+        width: 80%;
+        margin-top: 15px
+    }
+    .cta-1st-img-1 {
+        left: 0;
+        width: 100%
+    }
+}
+
+@media screen and (max-width:767px) {
+    .faq-accordion .accordion .accordion-item {
+        margin-bottom: 0
+    }
+    .cta-1st-sec-titles span.heading-span,
+    .industries-float-txt span.heading-span,
+    .section-title span.heading-span {
+        font-size: 30px !important
+    }
+    .faq-accordion .accordion .accordion-title i {
+        top: 7px
+    }
+    .faq-area lottie-player,
+    .faq-banner lottie-player,
+    .img-width img,
+    .services-img lottie-player,
+    .services-img1 lottie-player,
+    .we-hire-img lottie-player {
+        width: 100%
+    }
+    .mb-sm-4 {
+        margin-bottom: 30px
+    }
+    .cta-1st-img-1 {
+        left: 10%;
+        width: 85%
+    }
+    .banner-content h3,
+    .companies-logo,
+    .footer-shape1 {
+        display: none
+    }
+    .single-footer-widget .import-link li a {
+        font-size: 16px
+    }
+    .single-footer-widget .import-link li {
+        margin-bottom: 8px
+    }
+    .single-footer-widget h3.talk-txt {
+        font-size: 36px
+    }
+    .copy-right-area p {
+        font-size: 13px
+    }
+    .copy-right-area ul {
+        margin-top: 20px !important
+    }
+    .copy-right-area ul li {
+        margin-left: 0;
+        padding: 6px
+    }
+    .copy-right-area .social-icon li a i {
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        font-size: 18px
+    }
+    .go-top {
+        width: 35px;
+        height: 35px
+    }
+    .cta-1st-img {
+        margin-top: 30px
+    }
+    .cta-1st-img img {
+        text-align: center
+    }
+    .cta1 {
+        max-height: 100%;
+        height: auto
+    }
+    .cta-1st-sec-titles {
+        padding-top: 35px;
+        padding-bottom: 35px;
+        text-align: center
+    }
+    .cta-1st-sec-titles h2 {
+        font-size: 30px
+    }
+    .cta-1st-img-1 {
+        margin-top: 10px;
+        padding-bottom: 40px
+    }
+}
+
+.img-width,
+.img-width-85 {
+    text-align: center
+}
+
+.img-width img {
+    width: 75%
+}
+
+.img-width-85 img {
+    width: 85%
+}
+
+@media screen and (max-width:576px) {
+    .job-dsc .default-btn {
+        padding: 9px 15px !important
+    }
+}
+
+@media screen and (max-width:575.98px) {
+    .cta-1st-img {
+        width: 85% !important;
+        margin: 30px auto 0
+    }
+    .single-services lottie-player {
+        width: 40%
+    }
+}
