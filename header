@@ -1,0 +1,190 @@
+ <header class="header-area header-area-style-three">
+        <div class="navbar-area">
+            <div class="mobile-responsive-nav">
+                <div class="container">
+                    <div class="mobile-responsive-menu">
+                        <div class="logo">
+                            <a href="index.html" title=" Logo">
+                                <img src="images/Webverse.png" alt=" Logo" title=" Logo" />
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="desktop-nav">
+                <div class="container">
+                    <nav class="navbar navbar-expand-md navbar-light">
+                        <a class="navbar-brand n-b-1" href="">
+                            <img src="images/Webverse.png" class="logo-white" alt="Webverse IT Logo"
+                                title="Webverse IT Logo" width="200">
+                        </a>
+                        <a class="navbar-brand n-b-2" href="">
+                            <img src="images/Webverse.png" class="logo-black" alt="Webverse IT Logo"
+                                title="Webverse IT Logo" width="200">
+                        </a>
+                        <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
+                            <ul class="navbar-nav m-auto">
+                                <li class="nav-item">
+                                    <a href="index.html" class="nav-link active">Home</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="about-us.html" class="nav-link ">About Us</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="services.html" class="nav-link ">
+                                        Services
+                                        <i class="ri-arrow-down-s-line"></i>
+                                    </a>
+                                    <ul class="dropdown-menu">
+                                        <li class="nav-item">
+                                            <a href="services/web-designing/" class="nav-link ">Website Designing<i
+                                                    class="ri-arrow-down-s-line"></i></a>
+                                            <ul class="dropdown-menu">
+                                                <li class="nav-item">
+                                                    <a href="ecommerce-web-development-company.html"
+                                                        class="nav-link ">Ecommerce Website</a>
+                                                </li>
+                                                <li class="nav-item"><a href="services/website-re-design/"
+                                                        class="nav-link ">Re Designing</a></li>
+                                                <li class="nav-item"><a href="services/dynamic-website-design-services/"
+                                                        class="nav-link ">Dynamic Website</a></li>
+                                                <li class="nav-item">
+                                                    <a href="services/website-maintenance-service/"
+                                                        class="nav-link ">Website Maintenance</a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="services/landing-page-design-services/"
+                                                        class="nav-link ">Landing Page</a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="services/responsive-website-design-services/"
+                                                        class="nav-link ">Responsive Website</a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="services/static-website-design-services/"
+                                                        class="nav-link ">Static Website</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="services/web-development/" class="nav-link ">
+                                                Website Development
+                                                <i class="ri-arrow-down-s-line"></i>
+                                            </a>
+                                            <ul class="dropdown-menu">
+                                                <li class="nav-item">
+                                                    <a href="services/php-web-development-company/"
+                                                        class="nav-link ">PHP Development</a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="services/laravel-development-company/"
+                                                        class="nav-link ">Laravel Development</a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="services/angular-js-development-company/"
+                                                        class="nav-link ">Angular JS Development</a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="services/wordpress-development-company/"
+                                                        class="nav-link ">Wordpress</a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="services/codeigniter-development/"
+                                                        class="nav-link ">CodeIgniter</a>
+                                                </li>
+
+                                            </ul>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="services/app-development-company/" class="nav-link ">
+                                                App Development
+                                                <i class="ri-arrow-down-s-line"></i>
+                                            </a>
+                                            <ul class="dropdown-menu">
+                                                <li class="nav-item">
+                                                    <a href="services/ios-app-development-company/"
+                                                        class="nav-link ">iOS App Development</a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="services/android-app-development-company/"
+                                                        class="nav-link ">Android App Development</a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="services/web-app-development-company/"
+                                                        class="nav-link ">Web App Development</a>
+                                                </li>
+
+                                            </ul>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="services/digital-marketing-company/" class="nav-link ">
+                                                Digital Marketing
+                                                <i class="ri-arrow-down-s-line"></i>
+                                            </a>
+                                            <ul class="dropdown-menu">
+                                                <li class="nav-item">
+                                                    <a href="services/google-ads-services/" class="nav-link ">Google
+                                                        Ads</a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="services/seo-company-in-delhi/" class="nav-link ">SEO
+                                                        Services</a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="services/smo-services/" class="nav-link ">Social Media
+                                                        Optimisation</a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="services/content-writing/" class="nav-link ">Content
+                                                        Writing Services</a>
+                                                </li>
+
+                                            </ul>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="services/graphic-designing-company/" class="nav-link ">
+                                                Graphic Designing
+                                                <i class="ri-arrow-down-s-line"></i>
+                                            </a>
+                                            <ul class="dropdown-menu">
+                                                <li class="nav-item">
+                                                    <a href="services/logo-designing-company/" class="nav-link ">Logo
+                                                        Designing</a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="services/flyer-and-brochure-design-company/"
+                                                        class="nav-link ">Flyer and Brochure Design</a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a href="services/ui-ux-design-company/" class="nav-link ">UI/UX
+                                                        Designing</a>
+                                                </li>
+
+
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="our-work.html" class="nav-link ">Our Work</a>
+                                </li>
+                               
+                                <li class="nav-item">
+                                    <a href="blog.html" class="nav-link ">Blog</a>
+                                </li>
+                            </ul>
+                            <div class="others-options">
+                                <ul>
+                                    <li>
+                                        <a href="contact-us.html" class="default-btn" title="Contact Button">
+                                            <span>Contact Us</span>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </header>
